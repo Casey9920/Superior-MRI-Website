@@ -1,0 +1,220 @@
+superior-mri-website/
+├─ index.html
+├─ about.html
+├─ services.html
+├─ locations.html
+├─ contact.html
+├─ styles.css
+└─ images/
+     ├─ hero.jpg           (placeholder link below)
+     ├─ mobile-mri.jpg     (placeholder link below)
+     ├─ staff.jpg          (placeholder link below)
+     └─ icons/
+         ├─ mri.png        (placeholder link below)
+         ├─ mobile.png     (placeholder link below)
+         └─ specialized.png (placeholder link below)
+/* Paste the previous styles.css content here from the last message */
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Superior MRI Services Inc.</title>
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+<nav>
+    <h1>Superior MRI</h1>
+    <div>
+        <a href="index.html">Home</a>
+        <a href="about.html">About</a>
+        <a href="services.html">Services</a>
+        <a href="locations.html">Locations</a>
+        <a href="contact.html">Contact</a>
+    </div>
+</nav>
+
+<section class="hero">
+    <h1>Mobile MRI Solutions You Can Trust</h1>
+    <p>Serving Mississippi and the Southeast Since 2011</p>
+    <a href="contact.html">Schedule an Appointment</a>
+</section>
+
+<section>
+    <h2>Our Services</h2>
+    <div class="services">
+        <div class="service-card">
+            <img src="images/icons/mri.png" alt="MRI Icon">
+            <h3>MRI Scans</h3>
+            <p>Comprehensive MRI imaging with advanced equipment for accurate results.</p>
+        </div>
+        <div class="service-card">
+            <img src="images/icons/mobile.png" alt="Mobile MRI Icon">
+            <h3>Mobile Imaging</h3>
+            <p>We bring imaging directly to clinics, hospitals, and patient homes.</p>
+        </div>
+        <div class="service-card">
+            <img src="images/icons/specialized.png" alt="Specialized MRI Icon">
+            <h3>Specialized Imaging</h3>
+            <p>Open MRI, 3T MRI, and other advanced techniques for precise diagnostics.</p>
+        </div>
+    </div>
+</section>
+
+<footer>
+    &copy; 2026 Superior MRI Services Inc. | Phone: 662-299-0582 | Email: Shaun@superiormri.com
+</footer>
+
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>About Us | Superior MRI Services</title>
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+<nav>
+    <h1>Superior MRI</h1>
+    <div>
+        <a href="index.html">Home</a>
+        <a href="about.html">About</a>
+        <a href="services.html">Services</a>
+        <a href="locations.html">Locations</a>
+        <a href="contact.html">Contact</a>
+    </div>
+</nav>
+
+<section>
+    <h2>About Superior MRI Services</h2>
+    <img src="images/staff.jpg" alt="Superior MRI Staff">
+    <p>Founded in 2011, Superior MRI Services Inc. is a trusted mobile imaging provider serving Mississippi and the Southeastern U.S. We deliver accurate imaging results with a patient-first approach.</p>
+    <p>With 24 locations and growing, we bring convenience, safety, and top-quality imaging directly to healthcare facilities and patients.</p>
+</section>
+
+<footer>
+    &copy; 2026 Superior MRI Services Inc.
+</footer>
+
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Services | Superior MRI Services</title>
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+<nav>
+    <h1>Superior MRI</h1>
+    <div>
+        <a href="index.html">Home</a>
+        <a href="about.html">About</a>
+        <a href="services.html">Services</a>
+        <a href="locations.html">Locations</a>
+        <a href="contact.html">Contact</a>
+    </div>
+</nav>
+
+<section>
+    <h2>Our Services</h2>
+    <div class="services">
+        <div class="service-card">
+            <img src="images/icons/mri.png" alt="MRI Icon">
+            <h3>MRI Scans</h3>
+            <p>Comprehensive MRI imaging for accurate diagnostics.</p>
+        </div>
+        <div class="service-card">
+            <img src="images/icons/mobile.png" alt="Mobile MRI Icon">
+            <h3>Mobile Imaging</h3>
+            <p>We bring imaging directly to clinics, hospitals, and patient homes.</p>
+        </div>
+        <div class="service-card">
+            <img src="images/icons/specialized.png" alt="Specialized MRI Icon">
+            <h3>Specialized Imaging</h3>
+            <p>Open MRI, 3T MRI, and other advanced imaging techniques.</p>
+        </div>
+    </div>
+</section>
+
+<footer>
+    &copy; 2026 Superior MRI Services Inc.
+</footer>
+
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Locations | Superior MRI Services</title>
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+<nav>
+    <h1>Superior MRI</h1>
+    <div>
+        <a href="index.html">Home</a>
+        <a href="about.html">About</a>
+        <a href="services.html">Services</a>
+        <a href="locations.html">Locations</a>
+        <a href="contact.html">Contact</a>
+    </div>
+</nav>
+
+<footer>
+    &copy; 2026 Superior MRI Services Inc.
+</footer>
+
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Contact | Superior MRI Services</title>
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+<nav>
+    <h1>Superior MRI</h1>
+    <div>
+        <a href="index.html">Home</a>
+        <a href="about.html">About</a>
+        <a href="services.html">Services</a>
+        <a href="locations.html">Locations</a>
+        <a href="contact.html">Contact</a>
+    </div>
+</nav>
+
+<section>
+    <h2>Contact Us</h2>
+    <p>Fill out the form below or call us at <strong>662-299-0582</strong> or email <strong>Shaun@superiormri.com</strong>.</p>
+
+    <form class="contact-form">
+        <input type="text" placeholder="Your Name" required>
+        <input type="email" placeholder="Email Address" required>
+        <input type="tel" placeholder="Phone Number">
+        <textarea rows="5" placeholder="Message"></textarea>
+        <button type="submit">Submit</button>
+    </form>
+</section>
+
+<footer>
+    &copy; 2026 Superior MRI Services Inc.
+</footer>
+
+</body>
+</html>
+
